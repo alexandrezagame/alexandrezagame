@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Zagame</h1>
-<h3 align="center">A passionate frontend developer from Switzerland living in Sweden.</h3>
+<h3 align="center">A passionate frontend developer from France living in Sweden.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
