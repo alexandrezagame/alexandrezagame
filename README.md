@@ -10,7 +10,7 @@
 <p>I’m an French-Uruguayan living in Stockholm with a passion for coding, business & sustainability. Hands-on experience engaging in all stages of a project development, including requirements definition, design, execution and support. Strengths include project management activities, business process improvement and application development.</p>
 
 
-### Some Stats About Alex (Public Only)
+<h3 align="left">Some stats about me (Public Only):</h3>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrezagame&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrezagame&theme=buefy&layout=compact" />
