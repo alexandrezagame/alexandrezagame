@@ -10,7 +10,9 @@
 <p>I’m an French-Uruguayan living in Stockholm with a passion for coding, business & sustainability. Hands-on experience engaging in all stages of a project development, including requirements definition, design, execution and support. Strengths include project management activities, business process improvement and application development.</p>
 
 
-### Some Stats About Raghav (Public Only)
-<p align="center" >
-<img alt="Alex's github stats" src="https://github-readme-stats.vercel.app/api?username=alexandrezagame&show_icons=true&theme=merko"  > </p>
+### Some Stats About Alex (Public Only)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrezagame&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrezagame&theme=buefy&layout=compact" />
+</a>
 
