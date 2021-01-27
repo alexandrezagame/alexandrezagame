@@ -16,7 +16,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrezagame&theme=buefy&layout=compact" />
 </a>
 
-<a href="https://codestats.net/users/alexandrezagame">
-  <img src='https://codestats-readme.alexandrezagame/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="alexandrezagamen's Code::Stats history graph" />
-</a>
 
