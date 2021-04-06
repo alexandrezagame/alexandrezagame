@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Zagame</h1>
 <h3 align="center">A passionate Full-Stack web developer living in Sweden.</h3>
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandrezagame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexandrezagame" height="30" width="40" /></a>
