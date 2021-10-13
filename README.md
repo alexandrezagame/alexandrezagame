@@ -8,7 +8,7 @@
 
 Here is my Portfolio: https://www.alexzagame.com
 
-<p>I’m a French-Uruguayan living in Stockholm with a passion for coding, business & sustainability. Hands-on experience engaging in all stages of a project development, including requirements definition, design, execution and support. Strengths include project management activities, business process improvement and application development.</p>
+<p>I’m a French-Uruguayan living in Stockholm with a passion for coding, business & sustainability. Hands-on experience engaging in all stages of a project development. Strengths include project management activities, business process improvement and application development.</p>
 
 
 
